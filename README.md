@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![What I Do Illustration](https://user-images.githubusercontent.com/12912469/169666383-bc0a9bad-6728-402b-8c34-ab291e158aad.png)
 
 [![Website](https://img.shields.io/badge/Website-mehamasum.github.io-3c78d8?style=for-the-badge)](https://mehamasum.github.io)
 [![LinkedIn Profile](https://img.shields.io/badge/Profile-mehamasum-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mehamasum)
